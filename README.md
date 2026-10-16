@@ -23,6 +23,7 @@ Libraries, frameworks, and tools will be documented as they are introduced.
 - [x] Chapter 2
 - [x] Chapter 3
 - [x] Chapter 4
+- [x] Chapter 5
 
 Progress will be updated as I work through the book.
 
